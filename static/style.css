@@ -1,0 +1,9 @@
+body {
+    background-color: beige;
+    font-family: Georgia;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
